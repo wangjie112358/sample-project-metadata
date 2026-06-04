@@ -1,0 +1,24 @@
+{
+  "Name": "Test_Item_Name_1",
+  "AssetTypeDiscriminator": "道具",
+  "Attributes": [
+    {
+      "TraitType": "Rarity",
+      "Value": 5
+    },
+    {
+      "TraitType": "Type",
+      "Value": 1
+    },
+    {
+      "TraitType": "Serial Number",
+      "Value": 1
+    },
+    {
+      "TraitType": "Source",
+      "Value": "web"
+    }
+  ],
+  "Image": "http://127.0.0.1:9000/dice-dungeon/nft-metadata/assets/Test_Item_Name_1.png",
+  "TokenID": "340282366920938463463374607431768211605"
+}
